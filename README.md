@@ -8,8 +8,8 @@ My first repository
 **WAYNE** is a gritty action-drama series following a young, determined teen (Wayne) as he goes on a violent, chaotic quest to reclaim what was stolen from his family — with the help of his fierce sidekick Del. The show mixes dark humor, fast-paced action, and raw emotion.
 
 **Genre:** Action / Drama / Dark Comedy  
-**Creator:** [Unknown / add name]  
-**Status:** Completed / Ongoing (edit as needed)
+**Creator:** [John Hakata]  
+**Status:** Ongoing 
 
 ---
 
@@ -19,9 +19,9 @@ My first repository
 |-------|------|
 | Title | WAYNE |
 | Genre | Action, Drama |
-| Seasons | 1 (update if more) |
-| Episodes | (add episode count) |
-| First Aired | (add date) |
+| Seasons | 1  |
+| Episodes | 13 |
+| First Aired | (Nov. 19 2019) |
 
 ---
 
@@ -43,13 +43,6 @@ My first repository
 
 ---
 
-## 👥 Main Cast (example)
-- Wayne — *Lead character (actor name here)*  
-- Del — *Sidekick (actor name here)*  
-*(Add full cast as needed.)*
-
----
-
 ## 🔗 Where to Watch
-- Add streaming platform links here (e.g., Netflix, Amazon Prime).  
-- Trailer: `[Watch the trailer](https://example.com)` *(replace with actual URL)*
+-  Netflix, Amazon Prime.  
+
