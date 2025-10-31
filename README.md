@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# WAYNE
+# WAYNE,
 
 ![WAYNE Poster](https://via.placeholder.com/600x300?text=WAYNE+Poster)
 
